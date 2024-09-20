@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoLocUtil", "GeoLocUtil\GeoLocUtil.csproj", "{5F2A102B-E33A-4E50-B0DB-565B8E268A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLocUtil.Test", "GeoLocUtil.Test\GeoLocUtil.Test.csproj", "{729A9F94-1C50-44FA-9C0E-0876501EA321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2A102B-E33A-4E50-B0DB-565B8E268A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2A102B-E33A-4E50-B0DB-565B8E268A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2A102B-E33A-4E50-B0DB-565B8E268A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2A102B-E33A-4E50-B0DB-565B8E268A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729A9F94-1C50-44FA-9C0E-0876501EA321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729A9F94-1C50-44FA-9C0E-0876501EA321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729A9F94-1C50-44FA-9C0E-0876501EA321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729A9F94-1C50-44FA-9C0E-0876501EA321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC54208-485E-4781-B64B-38CB6288B8BA}
+	EndGlobalSection
+EndGlobal
